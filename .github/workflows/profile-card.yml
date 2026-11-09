@@ -73,5 +73,8 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh profile card stats"
+          # The default author is whoever triggered the run, which would put
+          # a daily commit on the owner's contribution graph.
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           branch: main
           file_pattern: "*.svg cache/*.json"
