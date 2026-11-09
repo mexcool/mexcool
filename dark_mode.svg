@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1018px" height="571px"
+     font-family="ConsolasFallback,Consolas,Menlo,monospace">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  size-adjust: 109%;
+}
+.key {fill: #F76E0A;}
+.value {fill: #a5d6ff;}
+.title {fill: #F76E0A; font-weight: bold;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1018px" height="571px" fill="#161b22" rx="15"/>
+<text fill="#c9d1d9" font-size="11.91px" class="ascii">
+<tspan x="15" y="117.73">                 ::                  =-</tspan>
+<tspan x="15" y="130.95">               .-=.                  .%*:</tspan>
+<tspan x="15" y="144.16">             .:==.         .          .@@+.</tspan>
+<tspan x="15" y="157.38">            :===.          ++          :%@%+.</tspan>
+<tspan x="15" y="170.60">          :---=:          -##-          =%%%#=.</tspan>
+<tspan x="15" y="183.82">        .:---=:          :***#:          +%##%*-</tspan>
+<tspan x="15" y="197.04">      .::----:          .****#*.          +#####*:</tspan>
+<tspan x="15" y="210.26">    .::::----           +*****#+          .*#*****+:</tspan>
+<tspan x="15" y="223.48">   .::::::--.          =*****###=          .********=:</tspan>
+<tspan x="15" y="236.69"> ..:::::::-.          :*******###:          :****+++**=.</tspan>
+<tspan x="15" y="249.91">....:::::-.          .++*****#####.          -*+++++++**=.</tspan>
+<tspan x="15" y="263.13">....::::::           =++*****#####*           =*++++++**=.</tspan>
+<tspan x="15" y="276.35"> ...:::::           -+++*****#####%+           =*+++**=.</tspan>
+<tspan x="15" y="289.57">   .::::           :++++*****######%-          .+***=:</tspan>
+<tspan x="15" y="302.79">    .::           .+++++******######%:          .*+:</tspan>
+<tspan x="15" y="316.00">                  =+++++******######%#.          .</tspan>
+<tspan x="15" y="329.22">                 -++++++*****######%%%*</tspan>
+<tspan x="15" y="342.44">                :+=+++++******####%%%%@=</tspan>
+<tspan x="15" y="355.66">               .==++++++******####%%%%%%:</tspan>
+<tspan x="15" y="368.88">               =+==+++++******###%%%%%%@%.</tspan>
+<tspan x="15" y="382.10">               .-++++++******####%%%%@@*:</tspan>
+<tspan x="15" y="395.31">                 .=++++*****#####%%%@*:</tspan>
+<tspan x="15" y="408.53">                   :=******######%%#-</tspan>
+<tspan x="15" y="421.75">                     :+****####%%#-</tspan>
+<tspan x="15" y="434.97">                       -*#####%#=</tspan>
+<tspan x="15" y="448.19">                         -*#%#=.</tspan>
+<tspan x="15" y="461.41">                          .++.</tspan>
+</text>
+<text fill="#c9d1d9" font-size="16px">
+<tspan x="447" y="31"><tspan class="title">mexcool</tspan> -————————————————————————————————————————————————-</tspan>
+<tspan x="447" y="51"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.......................................</tspan><tspan class="cc"> </tspan><tspan class="value">macOS, Linux</tspan></tspan>
+<tspan x="447" y="71"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> </tspan><tspan class="cc">...........................................</tspan><tspan class="cc"> </tspan><tspan class="value">Remote</tspan></tspan>
+<tspan x="447" y="91"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.............................</tspan><tspan class="cc"> </tspan><tspan class="value">Data &amp; AI Engineer</tspan></tspan>
+<tspan x="447" y="111"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> </tspan><tspan class="cc">..........................................</tspan><tspan class="cc"> </tspan><tspan class="value">Terminal</tspan></tspan>
+<tspan x="447" y="131" class="cc">.</tspan>
+<tspan x="447" y="151"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> </tspan><tspan class="cc">..........</tspan><tspan class="cc"> </tspan><tspan class="value">Python, Go, TypeScript</tspan></tspan>
+<tspan x="447" y="171"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> </tspan><tspan class="cc">....................</tspan><tspan class="cc"> </tspan><tspan class="value">SQL, YAML, Bash</tspan></tspan>
+<tspan x="447" y="191"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> </tspan><tspan class="cc">......</tspan><tspan class="cc"> </tspan><tspan class="value">Spanish, Basque, English, Italian</tspan></tspan>
+<tspan x="447" y="211" class="cc">.</tspan>
+<tspan x="447" y="231"><tspan class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Warehouses</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.......</tspan><tspan class="cc"> </tspan><tspan class="value">ClickHouse, BigQuery, Snowflake</tspan></tspan>
+<tspan x="447" y="251"><tspan class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Pipelines</tspan>:<tspan class="cc"> </tspan><tspan class="cc">....................</tspan><tspan class="cc"> </tspan><tspan class="value">dbt, Airflow, Spark</tspan></tspan>
+<tspan x="447" y="271"><tspan class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> </tspan><tspan class="cc">......................</tspan><tspan class="cc"> </tspan><tspan class="value">AWS, GCP, Docker, K8s</tspan></tspan>
+<tspan x="447" y="291" class="cc">.</tspan>
+<tspan x="447" y="311"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> </tspan><tspan class="cc">...........................</tspan><tspan class="cc"> </tspan><tspan class="value">Agents, Evals, MCP</tspan></tspan>
+<tspan x="447" y="331"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>.<tspan class="key">Crypto</tspan>:<tspan class="cc"> </tspan><tspan class="cc">............</tspan><tspan class="cc"> </tspan><tspan class="value">Onchain Data, Agentic Trading</tspan></tspan>
+<tspan x="447" y="351"><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.....................</tspan><tspan class="cc"> </tspan><tspan class="value">Coffee, Bread, Basketball</tspan></tspan>
+<tspan x="447" y="371" class="cc">.</tspan>
+<tspan x="447" y="391">- Contact -——————————————————————————————————————————————-</tspan>
+<tspan x="447" y="411"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.....................</tspan><tspan class="cc"> </tspan><tspan class="value">github.unfair734@aleeas.com</tspan></tspan>
+<tspan x="447" y="431" class="cc">.</tspan>
+<tspan x="447" y="451">- GitHub Stats -—————————————————————————————————————————-</tspan>
+<tspan x="447" y="471"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> </tspan><tspan class="cc" id="repo_data_dots">.........</tspan><tspan class="cc"> </tspan><tspan class="value" id="repo_data">8</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> </tspan><tspan class="cc" id="star_data_dots">........</tspan><tspan class="cc"> </tspan><tspan class="value" id="star_data">11</tspan></tspan>
+<tspan x="447" y="491"><tspan class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> </tspan><tspan class="cc" id="commit_data_dots">.............</tspan><tspan class="cc"> </tspan><tspan class="value" id="commit_data">6,043</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> </tspan><tspan class="cc" id="follower_data_dots">............</tspan><tspan class="cc"> </tspan><tspan class="value" id="follower_data">5</tspan></tspan>
+<tspan x="447" y="511"><tspan class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> </tspan><tspan class="cc" id="loc_data_dots">..........</tspan><tspan class="cc"> </tspan><tspan class="value" id="loc_data">512,102</tspan> ( <tspan class="addColor" id="loc_add">514,328</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor" id="loc_del">2,226</tspan><tspan class="delColor">--</tspan> )</tspan>
+<tspan x="447" y="551"><tspan class="key">&gt; </tspan><tspan class="value">█<animate attributeName="opacity" values="1;0" dur="1.06s" calcMode="discrete" repeatCount="indefinite"/></tspan></tspan>
+</text>
+</svg>

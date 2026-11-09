@@ -1,0 +1,42 @@
+{
+  "mexcool/SystemsCitizensBot": {
+    "added": 447873,
+    "deleted": 11,
+    "oid": "9ef6297d1c0de9e02600cb47bd951cd3e681291f"
+  },
+  "mexcool/claude-code-toolkit": {
+    "added": 5056,
+    "deleted": 148,
+    "oid": "63bb82fe15cda44e9d34f6657d228a3e1a0c136f"
+  },
+  "mexcool/coursera-ml-andrew-ng": {
+    "added": 31254,
+    "deleted": 0,
+    "oid": "aaeeb40c2f38cb50699061f0af4900f701b83573"
+  },
+  "mexcool/homebrew-tap": {
+    "added": 0,
+    "deleted": 0,
+    "oid": "eb872eb512d50d5e73d4280fa79f32729f1460ce"
+  },
+  "mexcool/mexcool": {
+    "added": 1348,
+    "deleted": 0,
+    "oid": "2a624f0753ed9a05477406bf0c3741a69b8e179d"
+  },
+  "mexcool/simplelogin-cli": {
+    "added": 14184,
+    "deleted": 1853,
+    "oid": "a3b3b5df68b8612e92304fbad8a0e21800cf40c3"
+  },
+  "mexcool/table-converter": {
+    "added": 301,
+    "deleted": 24,
+    "oid": "d6768c4eb33bf7e405a6ea6269bb558ac1030bdd"
+  },
+  "mexcool/universal-paperclips-agent": {
+    "added": 14312,
+    "deleted": 190,
+    "oid": "399010ccbc97e910af868f9be1cda08eccbd2cd0"
+  }
+}
