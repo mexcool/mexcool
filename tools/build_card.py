@@ -231,13 +231,17 @@ def build_panel(x: int, y0: float) -> tuple[list[str], int]:
 
     rows.append(None)
     rows.append(rule_row("- GitHub Stats"))
-    rows.append(
+    repos = (
         Row().text(". ", cls="cc").key("Repos").text(":")
         .text(" ", cls="cc").fill(eid="repo_data_dots").text(" ", cls="cc")
         .value(st["repos"], "repo_data")
-        .text(" {").text("Contributed", cls="key").text(": ")
-        .value(st["contrib"], "contrib_data").text("}")
-        .text(" | ").key("Stars").text(":")
+    )
+    # The default Actions token can't see contributions to other people's
+    # repos, so a 0 usually means "unknown": leave it off rather than show it.
+    if st["contrib"] != "0":
+        repos.text(" {").text("Contributed", cls="key").text(": ").value(st["contrib"], "contrib_data").text("}")
+    rows.append(
+        repos.text(" | ").key("Stars").text(":")
         .text(" ", cls="cc").fill(eid="star_data_dots").text(" ", cls="cc")
         .value(st["stars"], "star_data")
     )
