@@ -5,9 +5,9 @@
     "oid": "9ef6297d1c0de9e02600cb47bd951cd3e681291f"
   },
   "mexcool/claude-code-toolkit": {
-    "added": 5649,
-    "deleted": 167,
-    "oid": "b95b24e497fa8c23e1327686e9f8e18c1c16086a"
+    "added": 6072,
+    "deleted": 2307,
+    "oid": "f0d6eb78bf9247ccc036269c13555df13d24f50a"
   },
   "mexcool/coursera-ml-andrew-ng": {
     "added": 31254,
@@ -22,7 +22,7 @@
   "mexcool/mexcool": {
     "added": 3562,
     "deleted": 4,
-    "oid": "38e8acd72ccb1029757bbd0fdd3b7d2e4026442b"
+    "oid": "30425b5b6ff5a15e9a37c46e8e73ba008bb63eeb"
   },
   "mexcool/simplelogin-cli": {
     "added": 14185,
