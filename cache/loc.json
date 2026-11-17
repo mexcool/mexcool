@@ -2,7 +2,7 @@
   "mexcool/SystemsCitizensBot": {
     "added": 447873,
     "deleted": 11,
-    "oid": "9ef6297d1c0de9e02600cb47bd951cd3e681291f"
+    "oid": "639c7b31688b40116713d38fdb7ea1a2fd02d81c"
   },
   "mexcool/claude-code-toolkit": {
     "added": 6097,
@@ -22,12 +22,12 @@
   "mexcool/mexcool": {
     "added": 3562,
     "deleted": 4,
-    "oid": "c7944d96dfc008f99c81bfdf44617ba7e6a2e570"
+    "oid": "25d9ce1e2d0c5e8b4cd6fd3e88eb40e0afa4dfbe"
   },
   "mexcool/simplelogin-cli": {
-    "added": 14185,
-    "deleted": 1854,
-    "oid": "1055c616bd07a9a32ddebe42d4d7596fbf0c3d36"
+    "added": 14186,
+    "deleted": 1855,
+    "oid": "0c78a742664a01cdaaf731ed5fc278923b451509"
   },
   "mexcool/table-converter": {
     "added": 301,
