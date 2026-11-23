@@ -5,9 +5,9 @@
     "oid": "639c7b31688b40116713d38fdb7ea1a2fd02d81c"
   },
   "mexcool/claude-code-toolkit": {
-    "added": 6959,
-    "deleted": 2620,
-    "oid": "692450ccf4e2bddfc45d2d1f94745628d8e66a20"
+    "added": 7002,
+    "deleted": 2656,
+    "oid": "ff2a6d85bb891e1108cebc1e4ff1192eb936a4c7"
   },
   "mexcool/coursera-ml-andrew-ng": {
     "added": 31254,
@@ -15,9 +15,9 @@
     "oid": "aaeeb40c2f38cb50699061f0af4900f701b83573"
   },
   "mexcool/herdr-extensions": {
-    "added": 1967,
-    "deleted": 337,
-    "oid": "5a42457aa55c57c47d49a5e4f35f15c4d327c878"
+    "added": 2002,
+    "deleted": 348,
+    "oid": "9c86bc8a8db4d4b2ab766efb27ce976b84c5b27e"
   },
   "mexcool/homebrew-tap": {
     "added": 0,
@@ -27,7 +27,7 @@
   "mexcool/mexcool": {
     "added": 3562,
     "deleted": 4,
-    "oid": "d609012f693a5accc6568245942efcecef8e3c1b"
+    "oid": "c5e4a29328fe45e01ee5794b3e0a51bb753eba7a"
   },
   "mexcool/simplelogin-cli": {
     "added": 14186,
